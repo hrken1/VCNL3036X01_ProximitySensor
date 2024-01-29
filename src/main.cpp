@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include <Wire.h>
 #include "VCNL3036.h"
+#include <stdio.h>
 
 
 #define INT_PIN p0 // Define the interrupt pin number, change '0' to the correct pin number
